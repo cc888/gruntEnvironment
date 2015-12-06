@@ -1,6 +1,6 @@
 # gulpEnvironment
 
-### 使用
+### ::使用
 
 jade 放在 `lib/`
 
