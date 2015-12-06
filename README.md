@@ -1,2 +1,2 @@
-# gruntEnvironment
-grunt 環境
+# gulpEnvironment
+gulp 環境
