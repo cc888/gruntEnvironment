@@ -1,0 +1,10 @@
+{
+  "name": "gulp_tutorial",
+  "description": "An example of how to set up Gulp for jade to html.",
+  "author": "webber0928 (http://webber0928@gmail.com)",
+  "dependencies": {
+    "gulp-jade": "^1.1.0",
+    "gulp": "^3.9.0"
+  },
+  "engine": "node >= 0.10"
+}
